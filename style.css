@@ -13,6 +13,12 @@ nav{
     box-sizing: border-box;
     background: rgba(0, 0, 0, 0.5);
 }
+img{
+    width: 50px;
+    border-radius: 50%;
+    margin: 0px 14px;
+    float: left;
+}
 nav .nama{
     padding: 20px 5px;
     height: 5px;
@@ -51,8 +57,13 @@ section{
 }
 section h1{
     text-align: center;
-    color: #fff;
+    color: #943855;
     font-size: 50px;
     position: relative;
-
+    top: 190px; 
+}
+section h4{
+    text-align: center;
+    position: relative; 
+    top: 195px;    
 }
